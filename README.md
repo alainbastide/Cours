@@ -14,9 +14,12 @@ http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Licence/00_aff
 ## 06 Les matrices et vecteurs
 ## 07 Les matrices creuses
 ## 08 Les erreurs et les comprendre
-## 09 La résolution de problèmes de physique
+## 09 La résolution de problèmes de physique avec des équations aux dérivées ordinaires
+### Résolution d'une équation du premier ordre
+## 10 La résolution de problèmes de physique avec des équations aux dérivées partielles
 ### Diffusion de la chaleur en 1D en régime permanent 
 ### Diffusion de la chaleur en 2D en régime permanent 
 ### Diffusion de la chaleur en 1D en régime transitoire
 ### Diffusion de la chaleur en 2D en régime transitoire
+
 
