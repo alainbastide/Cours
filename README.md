@@ -4,4 +4,8 @@ L'ensemble des éléments du cours est construite pour que les étudiants aient 
 
 Sommaire
 
-## 00 Affichage
+## 00 L'affichage
+http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Licence/00_affichage.ipynb
+## 01 Les types
+## 02 Les conditions
+## 03 Les boucles
