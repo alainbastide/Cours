@@ -27,6 +27,9 @@ http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%
 ### d) Diffusion de la chaleur en 2D en régime transitoire
 
 
-En développement
+
+
+# En développement :
+
 ## XX_Chargement de librairies sous Windows et Linux
 ## 
