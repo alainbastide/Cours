@@ -5,10 +5,10 @@ L'ensemble des éléments du cours est construite pour que les étudiants aient 
 Sommaire
 
 ## 00 L'affichage
-http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/00_affichage.ipynb
+[Jupyter L'affichage](http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/00_affichage.ipynb)
 
 ## 01 Les types
-http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/01_Les_types.ipynb
+[Jupyter Les types](http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/01_Les_types.ipynb)
 
 ## 02 Les conditions
 http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/02_Les_conditions.ipynb
