@@ -11,15 +11,15 @@ Sommaire
 [Jupyter Les types](http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/01_Les_types.ipynb)
 
 ## 02 Les conditions
-http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/02_Les_conditions.ipynb
+[Jupyter Les conditions](http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/02_Les_conditions.ipynb)
 
 ## 03 Les boucles
-http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/03_Les_boucles.ipynb
+[Jupyter Les boucles](http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/03_Les_boucles.ipynb)
 
 ## 04 Les listes
 
 ## 05 Les fonctions 
-http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/05_Les_fonctions.ipynb
+[Jupyter Les fonctions](http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/05_Les_fonctions.ipynb)
 
 ## 06 Les matrices et vecteurs
 
@@ -42,8 +42,8 @@ http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%
 # En développement :
 
 ## XX_Chargement de librairies sous Windows et Linux
-http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/XX_Chargement%20de%20librairies%20sous%20Windows%20et%20Linux.ipynb
+[Jupyter Chargement de librairies sous Windows et Linux](http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/XX_Chargement%20de%20librairies%20sous%20Windows%20et%20Linux.ipynb)
 
 ## XX_Cython
-http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/XX_Cython.ipynb
+[Jupyter Cython](http://nbviewer.jupyter.org/github/alainbastide/Cours/blob/master/Initiation%20%C3%A0%20Python/XX_Cython.ipynb)
 
